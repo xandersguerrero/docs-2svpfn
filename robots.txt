@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-yr1sb4.1casino.co.nz/sitemap.xml
